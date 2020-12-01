@@ -1,0 +1,13 @@
+D:\FeOkuma\Projects\CS\ExemploMensagemCRC\ExemploMensagemCRC\bin\Debug\ExemploMensagemCRC.exe.config
+D:\FeOkuma\Projects\CS\ExemploMensagemCRC\ExemploMensagemCRC\bin\Debug\ExemploMensagemCRC.exe
+D:\FeOkuma\Projects\CS\ExemploMensagemCRC\ExemploMensagemCRC\bin\Debug\ExemploMensagemCRC.pdb
+D:\FeOkuma\Projects\CS\ExemploMensagemCRC\ExemploMensagemCRC\obj\Debug\ExemploMensagemCRC.exe
+D:\FeOkuma\Projects\CS\ExemploMensagemCRC\ExemploMensagemCRC\obj\Debug\ExemploMensagemCRC.pdb
+D:\FeOkuma\Projects\CS\ExemploMensagemCRC\ExemploMensagemCRC\obj\Debug\ExemploMensagemCRC.csprojResolveAssemblyReference.cache
+C:\Users\Valim\Downloads\C# - ExemploMensagemCRC\ExemploMensagemCRC\ExemploMensagemCRC\bin\Debug\ExemploMensagemCRC.exe.config
+C:\Users\Valim\Downloads\C# - ExemploMensagemCRC\ExemploMensagemCRC\ExemploMensagemCRC\bin\Debug\ExemploMensagemCRC.exe
+C:\Users\Valim\Downloads\C# - ExemploMensagemCRC\ExemploMensagemCRC\ExemploMensagemCRC\bin\Debug\ExemploMensagemCRC.pdb
+C:\Users\Valim\Downloads\C# - ExemploMensagemCRC\ExemploMensagemCRC\ExemploMensagemCRC\obj\Debug\ExemploMensagemCRC.csprojAssemblyReference.cache
+C:\Users\Valim\Downloads\C# - ExemploMensagemCRC\ExemploMensagemCRC\ExemploMensagemCRC\obj\Debug\ExemploMensagemCRC.csproj.CoreCompileInputs.cache
+C:\Users\Valim\Downloads\C# - ExemploMensagemCRC\ExemploMensagemCRC\ExemploMensagemCRC\obj\Debug\ExemploMensagemCRC.exe
+C:\Users\Valim\Downloads\C# - ExemploMensagemCRC\ExemploMensagemCRC\ExemploMensagemCRC\obj\Debug\ExemploMensagemCRC.pdb
